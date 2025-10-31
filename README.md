@@ -61,10 +61,3 @@ Define la estructura principal del sistema con relaciones de herencia, agregaci�
 - **IDE:** Visual Studio   
 - **Control de versiones:** GitHub  
 
----
-
-## Instalación y Ejecución
-
-###  Clonar el repositorio
-```bash
-
